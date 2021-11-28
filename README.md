@@ -1,6 +1,6 @@
 # Créer un microservice avec Spring Boot et Kotlin
 
-<p align="center"><img src="https://github.com/fdelbrayelle/spring-boot-with-kotlin/blob/master/kotlin-spring.jpg" width="50%" /></p>
+<p align="center"><img src="https://github.com/fdelbrayelle/spring-boot-with-kotlin/blob/main/kotlin-spring.jpg" width="50%" /></p>
 
 Ce dépôt contient les slides et la démo du talk "créer un microservice avec Spring Boot et Kotlin". Cette démo est librement inspirée du guide Spring suivant : [Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/).
 
