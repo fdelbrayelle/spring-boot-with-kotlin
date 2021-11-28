@@ -4,7 +4,7 @@
 
 Ce dépôt contient les slides et la démo du talk "créer un microservice avec Spring Boot et Kotlin". Cette démo est librement inspirée du guide Spring suivant : [Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/).
 
-Les supports peuvent être librement modifiés et réutilisés. Les slides ont également été [exportés au format PDF](https://github.com/fdelbrayelle/spring-boot-with-kotlin/blob/master/presentation.pdf).
+Les supports peuvent être librement modifiés et réutilisés. Les slides ont également été [exportés au format PDF](https://github.com/fdelbrayelle/spring-boot-with-kotlin/blob/main/presentation.pdf).
 
 ## Étapes de la démo
 
